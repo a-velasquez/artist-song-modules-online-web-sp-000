@@ -1,6 +1,6 @@
 module Paramable
   module InstanceMethods
-end
-
-
+    def to_param
+      
+    end
 end
